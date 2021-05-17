@@ -31,6 +31,9 @@ namespace Namespaces.Main
             p3D2.X = 150;
             p3D2.Y = 250;
             p3D2.Z = 175;
+
+            global::Point p = new global::Point();
+            p.Label = "Test";
         }
     }
 }
