@@ -34,6 +34,8 @@ namespace Namespaces.Main
 
             global::Point p = new global::Point();
             p.Label = "Test";
+
+            global::System.Console.WriteLine("Samples with namespaces and naming colisions");
         }
     }
 }
